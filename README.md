@@ -34,3 +34,5 @@ This project is a deep learning-based system for detecting brain tumors from MRI
 - Larger MRI datasets  
 - Web application deployment  
 - Multi-class tumor classification  
+
+**MobileNetV2 resulted in being more accurate than normal CNN as it is pretrained on a large dataset called ImageNet so it is efficient in detecting edges and features of an image more efficiently.  **
